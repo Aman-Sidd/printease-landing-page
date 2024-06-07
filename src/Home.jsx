@@ -7,12 +7,14 @@ import { Gallery } from "./components/gallery";
 import { Team } from "./components/Team";
 import { Contact } from "./components/contact";
 import JsonData from "./data/data.json";
+import { Navigation } from "./components/navigation";
 
 const Home = () => {
   const landingPageData = JsonData;
 
   return (
     <div>
+      <Navigation />
       <Header data={landingPageData.Header} />
       <Features data={landingPageData.Features} />
       <About data={landingPageData.About} />
