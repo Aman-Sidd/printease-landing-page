@@ -22,7 +22,7 @@ export const Header = (props) => {
                     Web App{" "}
                   </a>
                   <a
-                    href="#pageToTop"
+                    href="https://drive.google.com/file/d/19DwC6i48bwFdY9kQtvW3FaSLICvKDA45/view?usp=drive_link"
                     className="btn btn-custom btn-lg page-scroll"
                     style={{ margin: 10 }}
                   >
