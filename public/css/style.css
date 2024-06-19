@@ -247,7 +247,7 @@ header .intro-text {
 }
 @media (max-width: 768px) {
   .intro {
-    width: 100%;
+    width: 110%;
   }
   header .intro-text {
     padding-top: 200px;
